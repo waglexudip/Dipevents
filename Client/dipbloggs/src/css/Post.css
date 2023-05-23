@@ -1,0 +1,52 @@
+.post{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    flex-direction: row;
+    max-height: max-content;
+    width: 90vw;
+    margin-left: 10px;
+}
+.hog{
+    width: 28vw;
+    height: 36vh;
+    margin-right: 7px;
+    border: 0px;
+    padding-left: 0px;
+    border-radius: 12px;
+    margin-left: 0px;
+}
+.trrr{
+    display: flex;
+    margin-left: 100px;
+    flex-direction: row;
+    color:rgb(128, 0, 38);
+    margin-top: 15px;
+}
+.image{
+    margin: 0px;
+    padding: 0px;
+    /* border-radius: 30px; */
+}
+.texts{
+    display: flex;
+    flex-direction: column;
+}
+.pcon{
+    width: auto;
+    overflow: hidden;
+}
+.texts h3{
+    color: black;
+    border: 0px;
+}
+.author{
+    font-style: italic;
+    margin-left: 8px;
+    /* margin-top: 3px; */
+    margin-bottom: 4px;
+    color: #000000;
+}
+.summary{
+    height: 3em;
+}

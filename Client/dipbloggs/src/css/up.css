@@ -1,0 +1,30 @@
+.upblog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.horbut{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 50px;
+}
+.alci{
+    background-color: #e8e8e8;
+}
+.sdf{
+    width: fit-content;
+    margin: 20px;
+    font-size: large;
+    padding-top:3px ;
+    background-color: black;
+}
+.sd{
+    width: fit-content;
+    margin: 20px;
+    background-color: blue;
+    font-size: large;
+    padding-top: 3px;
+    /* padding: 10px; */
+    /* align-content: center; */
+}

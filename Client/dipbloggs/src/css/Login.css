@@ -1,0 +1,84 @@
+.con {
+  height: 100vh;
+  background-color: rgb(92, 140, 241);
+  display: flex;
+  flex-wrap: wrap-reverse;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.ogies {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.img2 {
+  width: 26px;
+  margin-right: 5px;
+  height: 28px;
+  border-right: 1px solid brown;
+}
+.img {
+  width: 40vw;
+  height: 80vh;
+  border-right: 1px solid brown;
+}
+.main {
+  background-color: #ffffff;
+  width: 27vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-style: normal;
+}
+.inputic {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 16%;
+  margin-bottom: 40px;
+}
+input {
+  outline: none;
+  border: 0px;
+  border-bottom: 1px solid black;
+  padding: 4px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+#ibut {
+  width: 60%;
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: black;
+  color: #ffffff;
+  border-color: blue;
+}
+
+#ibuti {
+  width: fit-content;
+  font-size: 25px;
+  background-color: #ffffff;
+  color: #0000ff;
+  border: none;
+  margin-left: 2px;
+}
+
+#ibut:hover {
+  background-color: #eb1f29;
+}
+.pnsu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
