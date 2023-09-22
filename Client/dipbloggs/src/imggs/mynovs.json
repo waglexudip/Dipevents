@@ -1,4 +1,289 @@
 [
-
-
+  {
+    "id": 1,
+    "name": "To Kill a Mockingbird",
+    "descip": "A powerful exploration of racism and injustice in the American South.                    --Harper lee",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/tokillmockin.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 2,
+    "name": "Pride and Prejudice",
+    "descip": "A classic romance novel that also delves into themes of class and society.               -- Jane Austen",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/prideandprejudice.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "descip": "A novel set in the Jazz Age that explores themes of wealth, love, and the American Dream.               -- F. Scott Fitzgerald ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/greatgatsby.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 4,
+    "name": "Crime and Punishment",
+    "descip": "A psychological novel that delves into the mind of a troubled protagonist.           --Fyodor Dostoevsky",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/crimenpunishment.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 5,
+    "name": "1984",
+    "descip": "A dystopian novel that explores the dangers of totalitarianism and surveillance.             --George Orwell",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/1984.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 6,
+    "name": "Moby-Dick",
+    "descip": "An epic tale of obsession and revenge set against the backdrop of whaling.               --Herman Melville",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/mobydick.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "descip": "A coming-of-age story featuring the iconic character Holden Caulfield.               --J.D. Salinger",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/cathcherintherye.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 8,
+    "name": "One Hundred Years of Solitude",
+    "descip": "A masterpiece of magical realism that tells the story of the Buendía family.                 --Gabriel García Márquez",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/onehundredyears.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 9,
+    "name": "Brave New World",
+    "descip": "A dystopian novel that explores the consequences of a highly controlled society.             --Aldous Huxley",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/bravenewworld.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 10,
+    "name": "Jane Eyre",
+    "descip": "A classic Gothic novel featuring a strong-willed heroine.            --Charlotte Brontë ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/janeeyre.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 11,
+    "name": "The Lord of the Rings",
+    "descip": "A fantasy epic that transports readers to the world of Middle-earth.                 --J.R.R. Tolkien",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/lordoftherings.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 12,
+    "name": "The Odyssey",
+    "descip": "An ancient Greek epic poem that tells the adventures of Odysseus.                        --Homer",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/theodysey.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 13,
+    "name": "The Brothers Karamazov",
+    "descip": "A philosophical novel that examines faith, morality, and family.                 --Fyodor Dostoevsky",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/brotherskaramazov.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 14,
+    "name": "The Picture of Dorian Gray",
+    "descip": "A novel that explores themes of vanity and the consequences of a hedonistic lifestyle.                   -- Oscar Wilde",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/dg.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 15,
+    "name": "Frankenstein",
+    "descip": "The classic Gothic tale of the scientist Victor Frankenstein and his monstrous creation.                 --Mary Shelley",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/franskentein.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 16,
+    "name": "Don Quixote",
+    "descip": "Often considered the first modern novel, it follows the adventures of a delusional knight.               --Miguel de Cervantes",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/donqu.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 17,
+    "name": "War and Peace",
+    "descip": "An epic novel that chronicles the lives of Russian aristocrats during the Napoleonic Wars.               --Leo Tolstoy",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/warandpeace.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 18,
+    "name": "Wuthering Heights",
+    "descip": "A dark and passionate novel of love and revenge on the Yorkshire moors.              --Emily Brontë",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/wutheringheights.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 19,
+    "name": "The Handmaid's Tale",
+    "descip": "A dystopian novel that explores themes of women's rights and authoritarianism.               --Margaret Atwood",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/thehandmaidstale.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 20,
+    "name": "The Kite Runner",
+    "descip": "A gripping novel that explores themes of friendship, betrayal, and redemption against the backdrop of Afghanistan's tumultuous history.              --Khaled Hosseini ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/kitrunner.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 21,
+    "name": "The Road",
+    "descip": "A post-apocalyptic novel that follows a father and son's journey through a desolate landscape.                   --Cormac McCarthy ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/road.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 22,
+    "name": "The Alchemist",
+    "descip": "A philosophical novel that explores the pursuit of one's dreams and personal legend.             --Paulo Coelho",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/alchemist.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 23,
+    "name": "The Book Thief",
+    "descip": "A novel narrated by Death and centered around a young girl's experiences in Nazi Germany.                --Markus Zusak",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/booktheif.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 24,
+    "name": "The Goldfinch",
+    "descip": "A Pulitzer Prize-winning novel that follows a young man's life after a tragic event at an art museum.                --Donna Tartt",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/goldfish.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 25,
+    "name": "Beloved",
+    "descip": "A novel that delves into the haunting legacy of slavery and its impact on a mother and her children.                 --Toni Morrison",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/beloved.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 26,
+    "name": "Life of Pi",
+    "descip": "A philosophical and allegorical novel about a young boy's survival on a lifeboat with a Bengal tiger.            --Yann Martel",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/lifeofpi.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 27,
+    "name": "The Nightingale",
+    "descip": "A historical novel set in Nazi-occupied France, focusing on the bravery and sacrifices of two sisters.               --Kristin Hannah ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/nighanle.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 28,
+    "name": "All the Light We Cannot See",
+    "descip": "A Pulitzer Prize-winning novel that weaves together the stories of a blind French girl and a German boy during World War II.         --Anthony Doerr",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/allthelightwecannotsee.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 29,
+    "name": "Middlemarch",
+    "descip": "A classic Victorian novel that delves into the lives and relationships of residents in a small English town.                 --George Eliot",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/middlemarch.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 30,
+    "name": "The Grapes of Wrath",
+    "descip": "A powerful novel that explores the struggles of the Joad family during the Great Depression.         --John Steinbeck",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/grapesofwrath.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 31,
+    "name": "A Tale of Two Cities",
+    "descip": "Set during the French Revolution, this novel explores themes of resurrection and sacrifice.              --Charles Dickens",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/taleoftwocities.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 32,
+    "name": "The Scarlet Letter",
+    "descip": "A classic novel about sin, guilt, and redemption in 17th-century Puritan Massachusetts.          --Nathaniel Hawthorne ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/scarletletter.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 33,
+    "name": "One Flew Over the Cuckoo's Nest",
+    "descip": "A novel set in a mental hospital, exploring themes of individuality and authority.               --Ken Kesey",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/oneflewovercuco.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 34,
+    "name": "The Count of Monte Cristo",
+    "descip": "A gripping tale of revenge and redemption.               ---Alexandre Dumas ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/couteofmonte.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 35,
+    "name": "The Night Circus",
+    "descip": "A magical and atmospheric novel about a mystical competition between two young magicians.            --Erin Morgenstern",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/nightcircus.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 36,
+    "name": "The Girl with the Dragon Tattoo",
+    "descip": "A gripping mystery novel featuring investigative journalist Mikael Blomkvist and hacker Lisbeth Salander.            --Stieg Larsson",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/dragngirl.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 37,
+    "name": "The Martian",
+    "descip": "A science fiction novel about an astronaut's struggle to survive alone on Mars.              --Andy Weir",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/martian.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 38,
+    "name": "The Sympathizer",
+    "descip": "A Pulitzer Prize-winning novel that explores the experiences of a Vietnamese communist spy during and after the Vietnam War.             --Viet Thanh Nguyen",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/sympathaizer.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 39,
+    "name": "The Shadow of the Wind",
+    "descip": "A mystery novel set in post-war Barcelona that revolves around a hidden library of forgotten books.          --Carlos Ruiz Zafón",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/shadowofwild.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 40,
+    "name": "The Wind-Up Bird Chronicle",
+    "descip": "A surreal and philosophical novel that blurs the lines between reality and fantasy.          --Haruki Murakami",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/windupbird.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 41,
+    "name": "The Secret History",
+    "descip": "A psychological thriller set in an elite college, exploring themes of obsession and guilt.               --Donna Tartt ",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/secrethistory.png?raw=true",
+    "durl": ""
+  }
 ]
