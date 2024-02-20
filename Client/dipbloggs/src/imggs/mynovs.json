@@ -232,58 +232,268 @@
   },
   {
     "id": 34,
-    "name": "The Count of Monte Cristo",
+    "name": "the count of monte cristo",
     "descip": "A gripping tale of revenge and redemption.               ---Alexandre Dumas ",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/couteofmonte.png?raw=true",
     "durl": ""
   },
   {
     "id": 35,
-    "name": "The Night Circus",
+    "name": "The night circus",
     "descip": "A magical and atmospheric novel about a mystical competition between two young magicians.            --Erin Morgenstern",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/nightcircus.png?raw=true",
     "durl": ""
   },
   {
     "id": 36,
-    "name": "The Girl with the Dragon Tattoo",
+    "name": "the Girl with the dragon tattoo",
     "descip": "A gripping mystery novel featuring investigative journalist Mikael Blomkvist and hacker Lisbeth Salander.            --Stieg Larsson",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/dragngirl.png?raw=true",
     "durl": ""
   },
   {
     "id": 37,
-    "name": "The Martian",
+    "name": "the martian",
     "descip": "A science fiction novel about an astronaut's struggle to survive alone on Mars.              --Andy Weir",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/martian.png?raw=true",
     "durl": ""
   },
   {
     "id": 38,
-    "name": "The Sympathizer",
+    "name": "the sympathizer",
     "descip": "A Pulitzer Prize-winning novel that explores the experiences of a Vietnamese communist spy during and after the Vietnam War.             --Viet Thanh Nguyen",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/sympathaizer.png?raw=true",
     "durl": ""
   },
   {
     "id": 39,
-    "name": "The Shadow of the Wind",
+    "name": "the shadow of the wind",
     "descip": "A mystery novel set in post-war Barcelona that revolves around a hidden library of forgotten books.          --Carlos Ruiz Zafón",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/shadowofwild.png?raw=true",
     "durl": ""
   },
   {
     "id": 40,
-    "name": "The Wind-Up Bird Chronicle",
+    "name": "the wind-up bird Chronicle",
     "descip": "A surreal and philosophical novel that blurs the lines between reality and fantasy.          --Haruki Murakami",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/windupbird.png?raw=true",
     "durl": ""
   },
   {
     "id": 41,
-    "name": "The Secret History",
+    "name": "the secret history",
     "descip": "A psychological thriller set in an elite college, exploring themes of obsession and guilt.               --Donna Tartt ",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/secrethistory.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 42,
+    "name": "Gone with the Wind",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/gonewithwind.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 43,
+    "name": "The Lion, the Witch and the Wardrobe",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/narnia1.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 44,
+    "name": "Lord of the Flies",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/lordofflies.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 45,
+    "name": "Animal Farm",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/animalfarm.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 46,
+    "name": "Catch-22",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/catch22.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 47,
+    "name": "A Clockwork Orange",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/aclockworkorange.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 48,
+    "name": "Are You There God? It's Me, Margaret",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/margaraet.png?raw=true",
+    "durl": ""
+  }, 
+  {
+    "id": 49,
+    "name": "Watchmen",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/watchmen.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 50,
+    "name": "Atonement",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/atonement.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 51,
+    "name": "Never Let Me Go",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/neverletmego.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 52,
+    "name": "Invisible Man",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/invisibleman.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 53,
+    "name": "Mrs. Dalloway",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Mrs.%20Dalloway.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 54,
+    "name": "On the Road",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ontheroad.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 55,
+    "name": "The Sun Also Rises",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/sunalsorises.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 56,
+    "name": "The Big Sleep",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/thebigsleep.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 57,
+    "name": "Possession",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/possession.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 58,
+    "name": "A Passage to India",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/apassagetoindia.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 59,
+    "name": "Their Eyes Were Watching God",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/theireyeswerewatchinggod.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 60,
+    "name": "The Sound and the Fury",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/soundandfury.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 61,
+    "name": "All the King's Men",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/All%20the%20King's%20Men.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 62,
+    "name": "The Blind Assassin",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/blindassasin.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 63,
+    "name": "Native Son",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/nativeson.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 64,
+    "name": "Ragtime",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ragtime.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 65,
+    "name": "Light in August",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/lightinaugust.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 66,
+    "name": "To the Lighthouse",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/tothelighthouse.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 67,
+    "name": "The French Lieutenant's Woman",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20French%20Lieutenant's%20Woman.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 68,
+    "name": "The Heart Is a Lonely Hunter",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20Heart%20Is%20a%20Lonely%20Hunter.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 69,
+    "name": "Naked Lunch",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Naked%20Lunch.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 70,
+    "name": "Brideshead Revisited",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Brideshead%20Revisited.png?raw=true",
+    "durl": ""
+  },
+  {
+    "id": 71,
+    "name": "Infinite Jest",
+    "descip": "",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Infinite%20Jest.png?raw=true",
     "durl": ""
   }
 ]
