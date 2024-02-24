@@ -337,9 +337,9 @@
   }, 
   {
     "id": 49,
-    "name": "The Heart Is a Lonely Hunter",
+    "name": "Watchmen",
     "descip": "",
-    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20Heart%20Is%20a%20Lonely%20Hunter.png?raw=true",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/watchmen.png?raw=true",
     "durl": ""
   },
   {
@@ -442,9 +442,9 @@
   },
   {
     "id": 64,
-    "name": "Naked Lunch",
+    "name": "Ragtime",
     "descip": "",
-    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Naked%20Lunch.png?raw=true",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ragtime.png?raw=true",
     "durl": ""
   },
   {
@@ -470,17 +470,16 @@
   },
   {
     "id": 68,
-    "name": "Watchmen",
+    "name": "The Heart Is a Lonely Hunter",
     "descip": "",
-    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/watchmen.png?raw=true",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20Heart%20Is%20a%20Lonely%20Hunter.png?raw=true",
     "durl": ""
   },
-
   {
     "id": 69,
-    "name": "Ragtime",
+    "name": "Naked Lunch",
     "descip": "",
-    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ragtime.png?raw=true",
+    "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Naked%20Lunch.png?raw=true",
     "durl": ""
   },
   {
@@ -496,5 +495,208 @@
     "descip": "",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Infinite%20Jest.png?raw=true",
     "durl": ""
+  },
+  {
+    "id":72,
+    "name":"Revolutionary Road",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/revolutionaryroad.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":73,
+    "name":"Snow Crash",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Snow%20Crash.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":74,
+    "name":"Midnight's Children",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Midnight's%20Children.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":75,
+    "name":"The Prime of Miss Jean Brodie",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Prime%20of%20Miss%20Jean%20Brodie.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":76,
+    "name":"Death Comes for the Archbishop",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Death%20Comes%20for%20the%20Archbishop.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":77,
+    "name":"American Pastoral",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/American%20Pastoral.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":78,
+    "name":"The Power and the Glory",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Power%20and%20the%20Glory.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":79,
+    "name":"Portnoys Complaint",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Portnoy%E2%80%99s%20Complaint.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":80,
+    "name":"The Corrections",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Corrections.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":81,
+    "name":"Gravitys Rainbow",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Gravity's%20Rainbow.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":82,
+    "name":"Under the Volcano",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Under%20the%20Volcano.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":83,
+    "name":"The Painted Bird",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Painted%20Bird.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":84,
+    "name":"Go Tell It on the Mountain",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Go%20Tell%20It%20on%20the%20Mountain.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":85,
+    "name":"A House for Mr Biswas",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/A%20House%20for%20Mr%20Biswas.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":86,
+    "name":"Play It As It Lays",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Play%20It%20As%20It%20Lays.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":87,
+    "name":"Lucky Jim",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Lucky%20Jim.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":88,
+    "name":"Ubik",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Ubik.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":89,
+    "name":"White Teeth",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/White%20Teeth.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":90,
+    "name":"The Golden Notebook",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Golden%20Notebook.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":91,
+    "name":"The Heart of the Matter",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Heart%20of%20the%20Matter.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":92,
+    "name":"Pale Fire",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Pale%20Fire.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":93,
+    "name":"The Moviegoer",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Moviegoer.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":94,
+    "name":"Money",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Money.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":95,
+    "name":"Deliverance",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Deliverance.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":96,
+    "name":"The Sot-Weed Factor",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Sot-Weed%20Factor.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":97,
+    "name":"The Adventures of Augie March",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Adventures%20of%20Augie%20March.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":98,
+    "name":"The Berlin Stories",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Berlin%20Stories.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":99,
+    "name":"A Death in the Family",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/A%20Death%20in%20the%20Family.png?raw=true",
+    "durl":""
+  },
+  {
+    "id":100,
+    "name":"Appointment in Samarra",
+    "descip":"",
+    "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Appointment%20in%20Samarra.png?raw=true",
+    "durl":""
   }
 ]
