@@ -11,7 +11,16 @@
     "name": "Pride and Prejudice",
     "descip": "A classic romance novel that also delves into themes of class and society.               -- Jane Austen",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/prideandprejudice.png?raw=true",
-    "durl": ""
+    "durl": [
+      {
+        "id":1,
+        "ulik":"https://drive.google.com/file/d/1OjjtIZ_TZSVDryoiWLYKFk_HwQLHr52V/view?usp=sharing"
+      },
+      {
+        "id":2,
+        "ulik":"https://drive.google.com/file/d/1fUDx3S4bYeCCxvMSetuSoB5j-0eTvJNg/view?usp=sharing"
+      }
+    ]
   },
   {
     "id": 3,
