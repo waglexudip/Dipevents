@@ -298,294 +298,294 @@
   {
     "id": 42,
     "name": "Gone with the Wind",
-    "descip": "",
+    "descip": "it vividly depicts the drama of the Civil War and Reconstruction. This is the tale of Scarlett O'Hara, the spoiled, manipulative daughter of a wealthy plantation owner, who arrives at young womanhood just in time to see the Civil War forever change her way of life        --Margaret Mitchell",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/imggs/nimgss/gonewithwind.png?raw=true",
     "durl": ""
   },
   {
     "id": 43,
     "name": "The Lion, the Witch and the Wardrobe",
-    "descip": "",
+    "descip": "The Lion, the Witch and the Wardrobe is a portal fantasy novel for children    --- C. S. Lewis",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/narnia1.png?raw=true",
     "durl": ""
   },
   {
     "id": 44,
     "name": "Lord of the Flies",
-    "descip": "",
+    "descip": "the story of a group of boys who find themselves on an island after their plane crashes. With no adult supervision, some members of the group soon turn to savagery      William Golding",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/lordofflies.png?raw=true",
     "durl": ""
   },
   {
     "id": 45,
     "name": "Animal Farm",
-    "descip": "",
+    "descip": "the story of farm animals that revolt against the farmer. Following the revolution, the pigs take power over the other animals and the farm begins to fall apart        George Orwell",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/animalfarm.png?raw=true",
     "durl": ""
   },
   {
     "id": 46,
     "name": "Catch-22",
-    "descip": "",
+    "descip": "It centres on Captain John Yossarian, an American bombardier stationed on a Mediterranean island during World War II, and chronicles his desperate attempts to stay alive.        --Joseph Heller",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/catch22.png?raw=true",
     "durl": ""
   },
   {
     "id": 47,
     "name": "A Clockwork Orange",
-    "descip": "",
+    "descip": "it is the first-person account of a juvenile delinquent who undergoes state-sponsored psychological rehabilitation for his aberrant behaviour.        --Anthony Burgess",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/aclockworkorange.png?raw=true",
     "durl": ""
   },
   {
     "id": 48,
     "name": "Are You There God? It's Me, Margaret",
-    "descip": "",
+    "descip": "It's Me, Margaret  is a timeless coming-of-age novel that beautifully captures the essence of adolescence and the search for identity.    -- Judy Blume",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/margaraet.png?raw=true",
     "durl": ""
   }, 
   {
     "id": 49,
     "name": "Watchmen",
-    "descip": "",
+    "descip": "A dark and dystopian deconstruction of the superhero genre, the film is set in an alternate history in the year 1985 at the height of the Cold War, as a group of mostly retired American superheroes investigate the murder of one of their own.      --Alan Moore",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/watchmen.png?raw=true",
     "durl": ""
   },
   {
     "id": 50,
     "name": "Atonement",
-    "descip": "",
+    "descip": "It tells the story of Briony's false accusation of rape against her sister Cecilia's lover, Robbie. The couple are separated and Briony spends her life trying to atone for her mistake.        --Ian McEwan ",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/atonement.png?raw=true",
     "durl": ""
   },
   {
     "id": 51,
     "name": "Never Let Me Go",
-    "descip": "",
+    "descip": "the story of three friends who grow up in an enclosed environment, a kind of boarding school, only gradually coming to understand that, parentless and unable to have children themselves, they are not considered to be fully human like the people outside.      --Kazuo Ishiguro",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/neverletmego.png?raw=true",
     "durl": ""
   },
   {
     "id": 52,
     "name": "Invisible Man",
-    "descip": "",
+    "descip": "Invisible Man is the story of a young, college-educated black man struggling to survive and succeed in a racially divided society that refuses to see him as a human being.      --Ralph Ellison",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/invisibleman.png?raw=true",
     "durl": ""
   },
   {
     "id": 53,
     "name": "Mrs. Dalloway",
-    "descip": "",
+    "descip": "The novel addresses the nature of time in personal experience through multiple interwoven stories, particularly that of Clarissa as she prepares for and hosts a party and that of the mentally damaged war veteran Septimus Warren Smith.      --Virginia Woolf",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Mrs.%20Dalloway.png?raw=true",
     "durl": ""
   },
   {
     "id": 54,
     "name": "On the Road",
-    "descip": "",
+    "descip": " The story follows Sal Paradise, a stand-in for Kerouac, as he travels across the United States and Mexico in search of better self-understanding and an understanding of the spiritual world.    --Jack Kerouac",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ontheroad.png?raw=true",
     "durl": ""
   },
   {
     "id": 55,
     "name": "The Sun Also Rises",
-    "descip": "",
+    "descip": "The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions.    --Ernest Hemingway.",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/sunalsorises.png?raw=true",
     "durl": ""
   },
   {
     "id": 56,
     "name": "The Big Sleep",
-    "descip": "",
+    "descip": "Philip Marlowe, a tough, cynical, yet honest private detective, is hired by the old, ailing General Sternwood to help him take care of Arthur Gwynn Geiger, a homosexual (possibly bisexual) pornographer who has been blackmailing the General with potentially scandalous pictures of the General's daughter.    --Raymond Chandler",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/thebigsleep.png?raw=true",
     "durl": ""
   },
   {
     "id": 57,
     "name": "Possession",
-    "descip": "",
+    "descip": "traces the lives of a pair of young academics as they uncover a clandestine relationship between two long-dead Victorian poets.      --A. S. Byatt",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/possession.png?raw=true",
     "durl": ""
   },
   {
     "id": 58,
     "name": "A Passage to India",
-    "descip": "",
+    "descip": "The novel examines racism and colonialism as well as a theme Forster developed in many earlier works, namely, the need to maintain both ties to the earth and a cerebral life of the imagination.    -- E.M. Forster",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/apassagetoindia.png?raw=true",
     "durl": ""
   },
   {
     "id": 59,
     "name": "Their Eyes Were Watching God",
-    "descip": "",
+    "descip": "the journey of Janie Crawford as she searches for love, independence, and self-fulfillment in the Deep South during the early 20th century.    -- Zora Neale Hurston",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/theireyeswerewatchinggod.png?raw=true",
     "durl": ""
   },
   {
     "id": 60,
     "name": "The Sound and the Fury",
-    "descip": "",
+    "descip": "It  is about what happens to a formerly prestigious family as the 20th-century clashes with their values and perceptions.    --William Faulkner",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/soundandfury.png?raw=true",
     "durl": ""
   },
   {
     "id": 61,
     "name": "All the King's Men",
-    "descip": "",
+    "descip": "The story concerns the rise and fall of Willie Stark, a character modeled on Huey Long, the governor of Louisiana during the time frame of the novel (late 1920s to early '30s).     -- Robert Penn Warren",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/All%20the%20King's%20Men.png?raw=true",
     "durl": ""
   },
   {
     "id": 62,
     "name": "The Blind Assassin",
-    "descip": "",
+    "descip": "The novel explores the complex relationships between two sisters, Iris and Laura, and the political and cultural changes of their time.    --Margaret Eleanor Atwood",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/blindassasin.png?raw=true",
     "durl": ""
   },
   {
     "id": 63,
     "name": "Native Son",
-    "descip": "",
+    "descip": "It follows Bigger Thomas, a young Black man living in 1930s Chicago. It explores the systemic racism and oppression he faces.    --Richard Wright",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/nativeson.png?raw=true",
     "durl": ""
   },
   {
     "id": 64,
     "name": "Ragtime",
-    "descip": "",
+    "descip": "It centers around three families: a wealthy white family, a Black family, and a Jewish immigrant family. The story's main action centers around Black musician Walker Coalhouse seeking justice for the racist destruction of his car and his ultimate death at the hands of white authorities.    --E. L. Doctorow",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/ragtime.png?raw=true",
     "durl": ""
   },
   {
     "id": 65,
     "name": "Light in August",
-    "descip": "",
+    "descip": "Set in the author's present day, the interwar period, the novel centers on two strangers, a pregnant white woman and a man who passes as white but who believes himself to be of mixed ethnicity.    --William Faulkner",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/lightinaugust.png?raw=true",
     "durl": ""
   },
   {
     "id": 66,
     "name": "To the Lighthouse",
-    "descip": "",
+    "descip": "A story's theme is the message woven throughout it, often about important topics such as human nature, life, or society. It is deeper than the plot or summary and it can answer questions such as What does it mean to be a family? or What are we afraid of?.    --Adeline Virginia Woolf",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/tothelighthouse.png?raw=true",
     "durl": ""
   },
   {
     "id": 67,
     "name": "The French Lieutenant's Woman",
-    "descip": "",
+    "descip": "The plot explores the fraught relationship of gentleman and amateur naturalist Charles Smithson and Sarah Woodruff, the former governess and independent woman with whom he falls in love.    --John Fowles",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20French%20Lieutenant's%20Woman.png?raw=true",
     "durl": ""
   },
   {
     "id": 68,
     "name": "The Heart Is a Lonely Hunter",
-    "descip": "",
+    "descip": "Set in Georgia in the 1930s, the novel reflects the isolation, poverty, racism, and social upheaval that characterized that era. The story centers around a deaf-mute, John Singer, and the four individuals in the community who choose to confide in him.    --Carson McCullers",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/The%20Heart%20Is%20a%20Lonely%20Hunter.png?raw=true",
     "durl": ""
   },
   {
     "id": 69,
     "name": "Naked Lunch",
-    "descip": "",
+    "descip": "Naked Lunch is a dark, wild ride through the terror of heroin addiction and withdrawal, filled with paranoia, erotica and drug-fueled hallucinations.     --William S. Burrough",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Naked%20Lunch.png?raw=true",
     "durl": ""
   },
   {
     "id": 70,
     "name": "Brideshead Revisited",
-    "descip": "",
+    "descip": "Brideshead Revisited, The Sacred & Profane Memories of Brideshead Revisited follows the aristocratic Flyte family from the 1920s through to the Second World War.    --Evelyn Waugh",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Brideshead%20Revisited.png?raw=true",
     "durl": ""
   },
   {
     "id": 71,
     "name": "Infinite Jest",
-    "descip": "",
+    "descip": "At the core of Infinite Jest is a story about addiction and the different ways that people find themselves hooked. Wallace's key argument is that to be human and alive is to be addicted to something, and the real power comes in choosing to what you might find yourself beholden.    --David Foster Wallace",
     "imgsrc": "https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/css/Infinite%20Jest.png?raw=true",
     "durl": ""
   },
   {
     "id":72,
     "name":"Revolutionary Road",
-    "descip":"",
+    "descip":"Revolutionary Road is about many things: adultery, abortion, a failed marriage, and the emptiness of suburban consumer culture as the fulfillment of the American Dream.    --Richard Yates",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/revolutionaryroad.png?raw=true",
     "durl":""
   },
   {
     "id":73,
     "name":"Snow Crash",
-    "descip":"",
+    "descip":"Snow Crash (1992) is a cyberpunk sci-fi novel starring katana-wielding, pizza-delivering hacker Hiro Protagonist and his partner, spunky teen skateboarder Y.T. It features a virus called Snow Crash.    --Neal Stephenson,",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Snow%20Crash.png?raw=true",
     "durl":""
   },
   {
     "id":74,
     "name":"Midnight's Children",
-    "descip":"",
+    "descip":"It is a historical chronicle of modern India centring on the inextricably linked fates of two children who were born within the first hour of independence from Great Britain.    --Salman Rushdie",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Midnight's%20Children.png?raw=true",
     "durl":""
   },
   {
     "id":75,
     "name":"The Prime of Miss Jean Brodie",
-    "descip":"",
+    "descip":"The character of Miss Jean Brodie was based in part on Christina Kay, a teacher of Spark's for two years at James Gillespie's School for Girls.    --Dame Muriel Sarah Spark",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Prime%20of%20Miss%20Jean%20Brodie.png?raw=true",
     "durl":""
   },
   {
     "id":76,
     "name":"Death Comes for the Archbishop",
-    "descip":"",
+    "descip":"Death Comes for the Archbishop traces the friendship and adventures of Bishop Jean Latour and vicar Father Joseph Vaillant as they organize the new Roman Catholic diocese of New Mexico.    -- Willa Cather",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Death%20Comes%20for%20the%20Archbishop.png?raw=true",
     "durl":""
   },
   {
     "id":77,
     "name":"American Pastoral",
-    "descip":"",
+    "descip":"American Pastoral takes a plunge into the depths of America's heart and soul and analyzes its curious multiculturalism, its unrestrained self-love and its misdirected self-hatred.    --Philip Roth",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/American%20Pastoral.png?raw=true",
     "durl":""
   },
   {
     "id":78,
     "name":"The Power and the Glory",
-    "descip":"",
+    "descip":"The novel follows the ,whiskey priest, the last practicing Catholic clergyman in the region, as he is pursued by authorities. Amidst moral ambiguity, the story explores redemption, faith, and human frailty.    --Henry Graham",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Power%20and%20the%20Glory.png?raw=true",
     "durl":""
   },
   {
     "id":79,
     "name":"Portnoys Complaint",
-    "descip":"",
+    "descip":"This comic novel is structured as a confession to a psychiatrist by Alexander Portnoy, who relates the details of his adolescent obsession with masturbation and his domination by his overly possessive mother, Sophie.  --Philip Roth",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Portnoy%E2%80%99s%20Complaint.png?raw=true",
     "durl":""
   },
   {
     "id":80,
     "name":"The Corrections",
-    "descip":"",
+    "descip":"The Corrections is a comic, tragic epic of worlds colliding: an old-fashioned world of civic virtue and sexual inhibitions, a new world of home surveillance, hands-off parenting, do-it-yourself mental health care.      -Jonathan Franzen",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Corrections.png?raw=true",
     "durl":""
   },
   {
     "id":81,
     "name":"Gravitys Rainbow",
-    "descip":"",
+    "descip":"Gravity's Rainbow is set toward the end of World War II and features an American character who has a peculiar relationship with the V-2 rockets launched by the Germans.    -Thomas Pynchon",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Gravity's%20Rainbow.png?raw=true",
     "durl":""
   },
   {
     "id":82,
     "name":"Under the Volcano",
-    "descip":"",
+    "descip":"The novel tells the story of Geoffrey Firmin, an alcoholic British consul in the Mexican city of Quauhnahuac, on the Day of the Dead in November 1938    --Malcolm Lowry",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Under%20the%20Volcano.png?raw=true",
     "durl":""
   },
   {
     "id":83,
     "name":"The Painted Bird",
-    "descip":"",
+    "descip":"story follows a dark-haired, olive-skinned boy, abandoned by his parents during World War II, as he wanders alone from one village to another, sometimes hounded and tortured, only rarely sheltered and cared for.    --Jerzy Kosiński",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Painted%20Bird.png?raw=true",
     "durl":""
   },
@@ -599,49 +599,49 @@
   {
     "id":85,
     "name":"A House for Mr Biswas",
-    "descip":"",
+    "descip":"It follows the life of Mr. Mohun Biswas, a protagonist inspired by Naipaul's father, as he struggles to find his freedom and a house of his own.    ---V. S. Naipaul",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/A%20House%20for%20Mr%20Biswas.png?raw=true",
     "durl":""
   },
   {
     "id":86,
     "name":"Play It As It Lays",
-    "descip":"",
+    "descip":"It depicts Hollywood as a broken paradise as seen from the point of view of a disenchanted actress, in contrast to the more common, utopian view of Hollywood.    ---joan Didion ",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Play%20It%20As%20It%20Lays.png?raw=true",
     "durl":""
   },
   {
     "id":87,
     "name":"Lucky Jim",
-    "descip":"",
+    "descip":"Lucky Jim (1954) is a comic novel by English author Kingsley Amis (1922-1995). Jim Dixon is a cynical history lecturer struggling to fit into the stuffy atmosphere of an unnamed English university. As Jim hopes for a spell of good luck, misfortunes continue to befall him.   ",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Lucky%20Jim.png?raw=true",
     "durl":""
   },
   {
     "id":88,
     "name":"Ubik",
-    "descip":"",
+    "descip":"Ubik hits the ground running with super sci-fi technology, and we’re introduced to several new innovations of this world. First up, companies employ telepaths and precogs (people who can see the future, and if that sounds like a Tom Cruise movie, that is because it is.    --Philip K. Dick",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Ubik.png?raw=true",
     "durl":""
   },
   {
     "id":89,
     "name":"White Teeth",
-    "descip":"",
+    "descip":"At the center of this invigorating novel are two unlikely friends, Archie Jones and Samad Iqbal. Hapless veterans of World War II, Archie and Samad and their families become agents of England's irrevocable transformation.    --Zadie Smith",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/White%20Teeth.png?raw=true",
     "durl":""
   },
   {
     "id":90,
     "name":"The Golden Notebook",
-    "descip":"",
+    "descip":"The Golden Notebook is the story of writer Anna Wulf, the four notebooks in which she records her life, and her attempt to tie them together in a fifth, gold-coloured notebook.",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Golden%20Notebook.png?raw=true",
     "durl":""
   },
   {
     "id":91,
     "name":"The Heart of the Matter",
-    "descip":"",
+    "descip":"The book follows Henry Scobie, a British police officer in west Africa, as he struggles with the guilt of infidelity.    --Graham Greene",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Heart%20of%20the%20Matter.png?raw=true",
     "durl":""
   },
@@ -655,56 +655,56 @@
   {
     "id":93,
     "name":"The Moviegoer",
-    "descip":"",
+    "descip":"An ingeniously constructed parody of detective fiction and learned commentary, Pale Fire offers a cornucopia of deceptive pleasures .  --Vladimir Nabokov ",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Moviegoer.png?raw=true",
     "durl":""
   },
   {
     "id":94,
     "name":"Money",
-    "descip":"",
+    "descip":"The story of John Self and his insatiable appetite for money, alcohol, fast food, drugs, pornography, and more, Money is ceaselessly inventive and thrillingly savage; a tale of life lived without restraint, of money and the disasters it can precipitate.    --Martin Louis Amis",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Money.png?raw=true",
     "durl":""
   },
   {
     "id":95,
     "name":"Deliverance",
-    "descip":"",
+    "descip":"the novel tells the story of four Atlanta suburbanites on a back-to-nature canoe trip that turns into a terrifying test of survival.    --James Dickey",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Deliverance.png?raw=true",
     "durl":""
   },
   {
     "id":96,
     "name":"The Sot-Weed Factor",
-    "descip":"",
+    "descip":"The Sot-Weed Factor is widely considered the first and greatest postmodern novel. In a satirical romp through America’s colonial history.    --John Barth",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Sot-Weed%20Factor.png?raw=true",
     "durl":""
   },
   {
     "id":97,
     "name":"The Adventures of Augie March",
-    "descip":"",
+    "descip":"It features the eponymous Augie March, who grows up during the Great Depression.    -- Saul Bellow,",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Adventures%20of%20Augie%20March.png?raw=true",
     "durl":""
   },
   {
     "id":98,
     "name":"The Berlin Stories",
-    "descip":"",
+    "descip":"The two novells are set in Berlin in 1931, just as Adolf Hitler was moving into power. Berlin is portrayed by Isherwood during this transitional period of cafes and quaint avenues, grotesque nightlife and dreamers, and powerful mobs and millionaires.    --Christopher Isherwood",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/The%20Berlin%20Stories.png?raw=true",
     "durl":""
   },
   {
     "id":99,
     "name":"A Death in the Family",
-    "descip":"",
+    "descip":"Religion is probably the most notable topic of exploration in A Death in the Family. It is the greatest cause of discussion and strife within both the nuclear family of Mary, Jay, Rufus, and little Catherine, and in Mary's extended family.  --James Rufus Agee",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/A%20Death%20in%20the%20Family.png?raw=true",
     "durl":""
   },
   {
     "id":100,
     "name":"Appointment in Samarra",
-    "descip":"",
+    "descip":"Appointment in Samarra, occur over just three days in the life of the protagonist, Julian English. Julian commits three impulsive acts that lead to his downfall and eventual suicide.    --John O'Hara",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Appointment%20in%20Samarra.png?raw=true",
     "durl":""
   }
