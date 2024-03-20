@@ -592,7 +592,7 @@
   {
     "id":84,
     "name":"Go Tell It on the Mountain",
-    "descip":"",
+    "descip":"Go Tell It on the Mountain is a semi-autobiographical novel. It is loosely based on Baldwin's own childhood growing up in Harlem and his relationship with his religious and violent father.    --James Baldwin",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Go%20Tell%20It%20on%20the%20Mountain.png?raw=true",
     "durl":""
   },
@@ -648,7 +648,7 @@
   {
     "id":92,
     "name":"Pale Fire",
-    "descip":"",
+    "descip":"An ingeniously constructed parody of detective fiction and learned commentary.   --Vladimir Nabokov.",
     "imgsrc":"https://github.com/waglexudip/Dipbloggs/blob/main/Client/dipbloggs/src/novimggs/Pale%20Fire.png?raw=true",
     "durl":""
   },
