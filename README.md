@@ -1,0 +1,1 @@
+This platform provides a centralized platform for planning,organizing and executing college events.Powered by MERN stack.The system provides a highly intuitive and user friendly interface,coupled with a robust set of tools that greatly enhance the execution of events.It streamlines the entire event management process,from event registration to post event analysis.
